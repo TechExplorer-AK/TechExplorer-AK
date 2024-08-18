@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techexplorer-ak&show_icons=true&locale=en&layout=compact" alt="techexplorer-ak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techexplorer-ak&show_icons=true&locale=en" alt="techexplorer-ak" /></p>
-
+[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=techexplorer-ak)](https://github.com/techexplorer-ak/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techexplorer-ak&" alt="techexplorer-ak" /></p>
